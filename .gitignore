@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
-/public/videos
+/public/videos/
 /.pnp
 .pnp.js
+
+# qunduz
 
 # testing
 /coverage
