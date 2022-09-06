@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "bgColor":"linear-gradient(167deg, rgba(131,58,180,1) 0%, rgba(252,176,69,1) 45%, rgba(253,29,29,1) 87%)",
+      "courseName":"Qunduz",
+      "imageUrl": "/images/courseLogo.jpg",
+      "title": "banner_info1",
+      "description": "info_description1",
+      "rating": 2,
+      "price":"50"
+    },
+    {
+        "id": 2,
+        "bgColor":"#fc0000",
+        "courseName":"Test2",
+        "imageUrl": "/images/courseLogo.jpg",
+        "title": "banner_info1",
+        "description": "info_description1",
+        "rating": 2,
+        "price":"50"
+      },
+      {
+        "id": 3,
+        "textColor":"#fff",
+        "bgColor":"#42f557",
+        "courseName":"Test3",
+        "imageUrl": "/images/courseLogo.jpg",
+        "title": "banner_info1",
+        "description": "info_description1",
+        "rating": 2,
+        "price":"50"
+      },
+      {
+        "id": 4,
+        "bgColor":"#4287f5",
+        "courseName":"Test4",
+        "imageUrl": "/images/courseLogo.jpg",
+        "title": "banner_info1",
+        "description": "info_description1",
+        "rating": 2,
+        "price":"50"
+      },
+      {
+        "id": 5,
+        "textColor":"#fff",
+        "bgColor":"#ff0000",
+        "courseName":"Test5",
+        "imageUrl": "/images/courseLogo.jpg",
+        "title": "banner_info1",
+        "description": "info_description1",
+        "rating": 2,
+        "price":"50"
+      },
+      {
+        "id": 6,
+        "bgColor":"#02f5f5",
+        "courseName":"Qunduz",
+        "imageUrl": "/images/courseLogo.jpg",
+        "title": "banner_info1",
+        "description": "info_description1",
+        "rating": 2,
+        "price":"50"
+      },
+      {
+          "id": 7,
+          "bgColor":"#fc0000",
+          "courseName":"Test2",
+          "imageUrl": "/images/courseLogo.jpg",
+          "title": "banner_info1",
+          "description": "info_description1",
+          "rating": 2,
+          "price":"50"
+        },
+        {
+          "id": 8,
+          "textColor":"#fff",
+          "bgColor":"#42f557",
+          "courseName":"Test3",
+          "imageUrl": "/images/courseLogo.jpg",
+          "title": "banner_info1",
+          "description": "info_description1",
+          "rating": 2,
+          "price":"50"
+        },
+        {
+          "id": 9,
+          "bgColor":"#4287f5",
+          "courseName":"Test4",
+          "imageUrl": "/images/courseLogo.jpg",
+          "title": "banner_info1",
+          "description": "info_description1",
+          "rating": 2,
+          "price":"50"
+        },
+        {
+          "id": 10,
+          "textColor":"#fff",
+          "bgColor":"#ff0000",
+          "courseName":"Test5",
+          "imageUrl": "/images/courseLogo.jpg",
+          "title": "banner_info1",
+          "description": "info_description1",
+          "rating": 2,
+          "price":"50"
+        },
+        {
+          "id": 11,
+          "bgColor":"#02f5f5",
+          "courseName":"Qunduz",
+          "imageUrl": "/images/courseLogo.jpg",
+          "title": "banner_info1",
+          "description": "info_description1",
+          "rating": 2,
+          "price":"50"
+        },
+        {
+            "id": 12,
+            "bgColor":"#fc0000",
+            "courseName":"Test2",
+            "imageUrl": "/images/courseLogo.jpg",
+            "title": "banner_info1",
+            "description": "info_description1",
+            "rating": 2,
+            "price":"50"
+          },
+          {
+            "id": 13,
+            "textColor":"#fff",
+            "bgColor":"#42f557",
+            "courseName":"Test3",
+            "imageUrl": "/images/courseLogo.jpg",
+            "title": "banner_info1",
+            "description": "info_description1",
+            "rating": 2,
+            "price":"50"
+          },
+          {
+            "id": 14,
+            "bgColor":"#4287f5",
+            "courseName":"Test4",
+            "imageUrl": "/images/courseLogo.jpg",
+            "title": "banner_info1",
+            "description": "info_description1",
+            "rating": 2,
+            "price":"50"
+          },
+          {
+            "id": 15,
+            "textColor":"#fff",
+            "bgColor":"#ff0000",
+            "courseName":"Test15",
+            "imageUrl": "/images/courseLogo.jpg",
+            "title": "banner_info1",
+            "description": "info_description1",
+            "rating": 2,
+            "price":"50"
+          }
+    
+]

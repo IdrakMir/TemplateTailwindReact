@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "image_url": "/images/lesson.jpg",
+        "title": "Python Wor Every One",
+        "description": "Data Structures and Algorithms from Zero to Hero and Crack Top Companies 100+ Interview questions (Python Coding)",
+        "rating": 4.3,
+        "sales_count": 39945,
+        "price":35,
+        "lesson_url":"https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/",
+        "category":"Python"
+    },
+    {
+        "id": 2,
+        "image_url": "/images/lesson.jpg",
+        "title": "Python Wor Every One",
+        "description": "Data Structures and Algorithms from Zero to Hero and Crack Top Companies 100+ Interview questions (Python Coding)Data Structures and Algorithms from Zero to Hero ",
+        "rating": 3.6,
+        "sales_count": 39945,
+        "price":35,
+        "lesson_url":"https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/",
+        "category":"Python"
+    },
+    {
+        "id": 3,
+        "image_url": "/images/lesson.jpg",
+        "title": "Python Wor Every One",
+        "description": "Data Structures and Algorithms from Zero to Hero and Crack Top Companies 100+ Interview questions (Python Coding)",
+        "rating": 5,
+        "sales_count": 3993999999945,
+        "price":35,
+        "lesson_url":"https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/",
+        "category":"Python"
+    }
+]

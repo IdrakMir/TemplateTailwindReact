@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "/images/counter.png",
+      "title": "banner_info1",
+      "description": "info_description1"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/counter2.png",
+      "title": "banner_info2",
+      "description": "info_description2"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/counter3.png",
+      "title": "banner_info3",
+      "description": "info_description3"
+    },
+    {
+      "id": 4,
+      "imageUrl": "/images/counter4.png",
+      "title": "banner_info4",
+      "description": "info_description4"
+    }
+]

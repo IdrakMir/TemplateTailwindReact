@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "/images/courseLogo.jpg",
+    "title": "banner_info1",
+    "description": "info_description1",
+    "rating": 2,
+    "price":"50"
+  },
+  {
+    "id": 2,
+    "imageUrl": "/images/courseLogo.jpg",
+    "title": "qunduz",
+    "description": "info_description1",
+    "rating": 4.999,
+    "price":"35"
+  },
+  {
+    "id": 3,
+    "imageUrl": "/images/courseLogo.jpg",
+    "title": "qunduz",
+    "description": "info_description1",
+    "rating": 4.999,
+    "price":"35"
+  },
+  {
+    "id": 4,
+    "imageUrl": "/images/courseLogo.jpg",
+    "title": "qunduz",
+    "description": "info_description1",
+    "rating": 4.999,
+    "price":"35"
+  },
+  {
+    "id": 5,
+    "imageUrl": "/images/courseLogo.jpg",
+    "title": "qunduz",
+    "description": "info_description1",
+    "rating": 4.999,
+    "price":"35"
+  }
+]
